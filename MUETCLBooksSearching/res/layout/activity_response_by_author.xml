@@ -1,0 +1,15 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarFadeDuration="1000"
+        android:scrollbarSize="12dip"
+        android:background="@color/blue" >
+        
+             <TableLayout
+ 	            android:shrinkColumns="0"
+   				android:stretchColumns="0" 
+   				android:layout_width="fill_parent"
+   				android:layout_height="wrap_content"       	    
+            	android:id="@+id/keywordtable" >
+            </TableLayout>
+</ScrollView>

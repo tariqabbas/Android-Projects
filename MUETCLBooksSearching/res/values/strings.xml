@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MUET CL Books Searching</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Button">Login</string>
+    <string name="title_activity_book_searching">BookSearching</string>
+    <string name="tvbooksearch">Enter Name Of Book</string>
+    <string name="bButton">Search</string>
+    <string name="tvauthor">Enter Name Of Author</string>
+    <string name="aButton">Search</string>
+    <string name="etanykeyword">Enter a Key Word</string>
+    <string name="keyButton">Search</string>
+    <string name="title_activity_response_by_title">ResponseByTitle</string>
+
+    <color name="blue">#0047BA</color>
+
+    <string name="title_activity_search_by_author">SearchByAuthor</string>
+    <string name="title_activity_response_by_author">ResponseByAuthor</string>
+    <string name="title_activity_response_by_key_word">ResponseByKeyWord</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="activity_user_authorization">UserAuthorization</string>
+
+</resources>
